@@ -34,7 +34,7 @@ Sensors with **50 µm and 100 µm strip pitches** are characterised, with partic
 
 ## Citation
 
-Anastasi, M. (2026). *Characterisation of GaAs:Cr Microstrip Sensors for Single Photon Counting*. Master's thesis, Politecnico di Milano. Research conducted at Paul Scherrer Institute.
+Anastasi, M. (2026). *Characterisation of GaAs:Cr Microstrip Sensors for Single Photon Counting*. Master's thesis, Politecnico di Milano.
 
 ## Rights and reuse
 
